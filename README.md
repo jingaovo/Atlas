@@ -4,6 +4,10 @@ Atlas is a modern, cross-platform travel planning and exploration application bu
 
 ![App Screenshot](app_screenshot.png)
 
+![Map Screenshot](map_view.png)
+
+![Profile Screenshot](user_profile.png)
+
 ## Features 🚀
 
 - **Trip Management**: Create and organize trips with detailed itineraries.
